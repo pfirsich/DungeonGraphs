@@ -1,5 +1,7 @@
 local lg = love.graphics
 
+love.window.maximize()
+
 local lineColor = {255, 255, 255, 255}
 local tileSize = 64
 local tilesN = 200
